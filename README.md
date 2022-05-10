@@ -1,11 +1,3 @@
-
-
-
-
-# first-branch
-
-
-
-
+# third-branch
 
 Practice merge conflict
