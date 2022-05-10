@@ -1,2 +1,3 @@
-# merge-conflict-practice
+# first-branch
+
 Practice merge conflict
