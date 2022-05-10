@@ -1,2 +1,3 @@
-# merge-conflict-practice
+# third-branch
+
 Practice merge conflict
